@@ -1,0 +1,6 @@
+{
+  "name": "Crescent Beats",
+  "description": "Showcase, player, and licensing hub for New Orleans independent Hip-Hop artist Crescent City Instrumentals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
